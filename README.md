@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Eric and I am trying to improve my coding skills 
+
 
 <!--
 **JustEjay/JustEjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
