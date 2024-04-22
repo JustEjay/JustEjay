@@ -1,5 +1,16 @@
-### Hi there 👋
-My name is Eric and I am trying to improve my coding skills 
+<h1>Hi, I'm Eric! <br/></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Space Invaders Game</b>
+  - [Praciting JavaScript](https://github.com/JustEjay/RetroShooter)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="EricHoward | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/eric-howard-jr/)
 
 
 <!--
